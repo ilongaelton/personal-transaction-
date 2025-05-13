@@ -1,22 +1,27 @@
 # personal-transaction
 
-# Date
-The transaction date in YYYY-MM-DD format.
+# Project Analysis
 
-# Description
-A brief label or name of the transaction (e.g., Walmart, Netflix, Salary).
+Lack of visibility into spending trends can 
+lead to poor budgeting and financial 
+planning.
+There is a need for a smarter way to 
+analyze past transactions and forecast 
+future spending. 
 
-# Amount
-The value of the transaction. Positive for both debits and credits.
+# Tech Stack
 
-# Transaction
-Type	Specifies whether the transaction is a debit (expense) or credit (income/refund).
+Languages & Framework: PYTHON, Pandas/NumPy
 
-# Category
-Group/category assigned to the transaction (e.g., Rent, Groceries, Dining Out).
+# Machine Learning
+Scikit-learn
+Lag Features & Temporal
 
-# Account Name	
-The account or payment method used (e.g., Visa Credit Card, Checking, Cash).
+# Visualization
+Matplotlib
 
-# Month	
-Extracted from the Date column in YYYY-MM format, used for monthly trend analysis
+# Web Integration
+HTML/CSS/JavaScript
+
+# Data Source
+Excel- imported Historical transactions
