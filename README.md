@@ -13,15 +13,15 @@ future spending.
 
 Languages & Framework: PYTHON, Pandas/NumPy
 
-# Machine Learning
-Scikit-learn
-Lag Features & Temporal
+Machine Learning:
+                Scikit-learn
+                Lag Features & Temporal
 
-# Visualization
-Matplotlib
+Visualization:
+              Matplotlib
 
-# Web Integration
-HTML/CSS/JavaScript
+Web Integration:
+                HTML/CSS/JavaScript
 
-# Data Source
-Excel- imported Historical transactions
+Data Source:
+              Excel- imported Historical transactions
